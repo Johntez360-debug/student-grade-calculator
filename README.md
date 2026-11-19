@@ -15,4 +15,4 @@ A simple C program that calculates a student's average and grade.
 
 ## Built by
 John Chacha - Aspiring Software Developer from Kenya
-Learning C Programming
+Learning networking and cyber security 
